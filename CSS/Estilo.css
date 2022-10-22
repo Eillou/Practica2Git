@@ -1,0 +1,31 @@
+h1.TITULO{
+    text-align: center;
+    color: blue;
+
+}
+h2.SUBTITULO{
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p:hover{
+    font-weight: 800;
+
+}
+legend{
+    background-color: aqua;
+    font-weight: 800;
+}
+input:hover{
+    background-color: red;
+}
+input:FOCUS{
+    background-color: green;
+}
+select:hover{
+    background-color: red;
+}
+select:FOCUS{
+    background-color: green;
+}
+
