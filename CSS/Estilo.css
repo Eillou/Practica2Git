@@ -20,12 +20,12 @@ input:hover{
     background-color: red;
 }
 input:FOCUS{
-    background-color: green;
+    background-color: yellow;
 }
 select:hover{
     background-color: red;
 }
 select:FOCUS{
-    background-color: green;
+    background-color: yellow;
 }
 
